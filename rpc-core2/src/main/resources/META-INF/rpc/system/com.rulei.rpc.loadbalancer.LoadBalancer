@@ -1,0 +1,1 @@
+consistentHash=com.rulei.rpc.loadbalancer.ConsistentHashLoadBalancer
